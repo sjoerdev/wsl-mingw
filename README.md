@@ -1,4 +1,4 @@
-# mingw-w64 wsl2 template
+# wsl mingw
 
 This is a way to do windows development using a wsl enviroment and linux tools.
 
